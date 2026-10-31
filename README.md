@@ -27,7 +27,6 @@ The workflow connects developer intent, invariant identification, dependency and
 - [Getting Started](#getting-started)
 - [Environment Variables](#environment-variables)
 - [Demonstration](#demonstration)
-- [Project Evidence and Documentation](#project-evidence-and-documentation)
 - [IBM Bob Assisted Development](#ibm-bob-assisted-development)
 - [Vision](#vision)
 
@@ -717,45 +716,6 @@ The demonstration focuses on the working application and how the different workf
 
 ---
 
-## Project Evidence and Documentation
-
-Supporting materials are organized into separate directories to make the implementation and development process easier to review.
-
-### 1. Implementation Evidence
-
-Location:
-
-```text
-docs/implementation-evidence/
-```
-
-This directory contains supporting evidence related to the implemented application and its functionality.
-
-Additional documentation:
-
-```text
-docs/implementation-evidence/README.md
-```
-
-### 2. IBM Bob Development Evidence
-
-Location:
-
-```text
-docs/ibm-bob-evidence/
-```
-
-This directory contains evidence related to the use of IBM Bob during development, including relevant task/session summaries and screenshots.
-
-### 3. Additional Hackathon Documentation
-
-```text
-HACKATHON_EVIDENCE.md
-```
-
-Refer to this file for additional hackathon evidence guidance.
-
----
 
 ## IBM Bob Assisted Development
 
@@ -807,20 +767,6 @@ The development work covered the following areas.
 - `src/components/VerificationPanel.tsx`
 - `src/index.css`
 
-### Team Responsibilities
-
-IBM Bob assisted with development activities, but the team remained responsible for:
-
-- Product concept and design decisions.
-- Application architecture.
-- Feature decisions.
-- Testing and validation.
-- Code review.
-- Final integration.
-
-The resulting code was reviewed, tested, and integrated by the team member.
-
-**Important:** IBM Bob development evidence is maintained separately from the application source code. Only actual IBM Bob task/session evidence should be included in the corresponding evidence directory.
 
 ---
 
